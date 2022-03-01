@@ -8,7 +8,7 @@ public class Home {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello Spring Boot with Docker";
+        return "Hello Spring Boot with Docker. DR location";
     }
 
 }
